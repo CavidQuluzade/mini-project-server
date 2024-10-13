@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Cavid1",
+      "password": "Cavid123",
+      "email": "cavid@gmail.com"
+    },
+    {
+      "id": "c95d",
+      "username": "cavid.qulu-zada",
+      "email": "javidjgu@code.edu.az",
+      "password": "Cavid@2006"
+    },
+    {
+      "id": "19b7",
+      "username": "Ayxan",
+      "email": "ayxan@code.edu.az",
+      "password": "Ayxan@2003"
+    },
+    {
+      "id": "637c",
+      "username": "Revan",
+      "email": "revan@code.edu.az",
+      "password": "Revan@123"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "Name": "Google inks pact for new 35-storey office",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, sit dolor! Quidem, voluptate voluptatum reiciendis necessitatibus, temporibus soluta magni aut perspiciatis, vitaequaerat ullam minus mollitia iure? A, ipsam nesciunt.",
+      "Category": [
+        {
+          "id": 1,
+          "Name": "Travel"
+        },
+        {
+          "id": 2,
+          "Name": "LifeStyle"
+        }
+      ],
+      "Date": "20 Jan",
+      "imgSrc": "https://preview.colorlib.com/theme/anipat/img/blog/single_blog_3.png.webp"
+    },
+    {
+      "Name": "wefndad",
+      "Description": "wevnwdv98wbv",
+      "Category": [
+        {
+          "Name": "Health"
+        }
+      ],
+      "Date": "13 Oct",
+      "imgSrc": "https://avatars.mds.yandex.net/i?id=a187c288b94c643a42e1c161c8f839f708b832f094cf8978-10869513-images-thumbs&n=13",
+      "id": "20ac"
+    },
+    {
+      "id": "6245",
+      "Name": "bfb",
+      "Description": "vvcnvc",
+      "Category": [
+        {
+          "Name": "Travel"
+        },
+        {
+          "Name": "Book"
+        }
+      ],
+      "Date": "12 Oct",
+      "imgSrc": "https://avatars.mds.yandex.net/i?id=a187c288b94c643a42e1c161c8f839f708b832f094cf8978-10869513-images-thumbs&n=13"
+    },
+    {
+      "id": "479b",
+      "Name": "sdiobsdvbsd",
+      "Description": "sdvdvdods-0jd-",
+      "Category": [
+        {
+          "Name": "LifeStyle"
+        }
+      ],
+      "Date": "13 Oct",
+      "imgSrc": "https://avatars.mds.yandex.net/i?id=a187c288b94c643a42e1c161c8f839f708b832f094cf8978-10869513-images-thumbs&n=13"
+    }
+  ]
+}
